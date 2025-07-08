@@ -9,3 +9,8 @@ This project uses **Terraform** to manage **IAM users** in **AWS Cloud**. It all
 - Generate access keys for programmatic access
 - Modular and reusable code
 
+## 📦 Prerequisites
+
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) v1.0+
+- AWS CLI configured or access keys set via environment
+- An existing AWS account with sufficient IAM privileges
